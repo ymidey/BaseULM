@@ -1,0 +1,57 @@
+body{
+    background-color: #b5a789; 
+	font-family: Georgia;
+	color: purple;
+	padding-left: 0em;}
+
+.banniere{
+	height: 200px;
+	width: 1890px;}
+	
+.logo{
+	position:absolute; top:0em; left:105em;
+	height: 170px;
+	width: 170px;}
+
+
+h1{
+	color: blue;
+	text-align: center;}
+
+
+h2{
+	border: 3px green dotted;
+	text-align: center;
+	font-style: bold;}
+
+p{
+	color : white;
+	text-align: center;}
+
+ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 1em;
+    left: 2em;
+    width: 9em;}
+
+ul.navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.1em;
+    border-right: 1em solid black;
+	color : yellow;
+	list-style-type:none;}
+
+a:link {color: red; }
+a:visited {color: black;}
+
+.description{
+	color:purple;}
+
+
+.photo{
+	height: 250px;
+	width: 520px;}

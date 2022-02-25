@@ -1,0 +1,73 @@
+body{
+    background-color: #b5a789; 
+	font-family: Georgia;
+	color: purple;
+    padding-left: 0em;}
+
+.banniere{
+    height: 200px;
+    width: 1890px;}
+    
+.logo{
+    position:absolute; top:0em; left:105em;
+    height: 170px;
+    width: 170px;}
+
+h3,h1{
+	color: blue;
+	text-align: center;}
+
+h2{
+    border: 3px green dotted;
+    text-align: center;}
+
+h2,h3{
+    font-style: bold;}
+    
+p{
+	color : white;}
+
+ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 1em;
+    left: 2em;
+    width: 9em;}
+
+ul.navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.1em;
+    border-right: 1em solid black;
+	color : yellow;
+	list-style-type:none;}
+
+a:link {color: red; }   
+a:visited {color: black; }
+
+table{
+    border-collapse: collapse;
+    background-position: center;
+    color: white;
+    opacity: 0.8;}
+
+caption{
+    border: 2px solid dodgerblue;
+    border-bottom: initial;
+    background-image: linear-gradient(90deg, orange, grey);}
+
+td, th{
+    border: 1px dashed blue;
+    border-top: initial;}
+
+td {
+    text-align: center;}
+
+tr:last-child{
+    border: 2px solid dodgerblue;}
+    
+.Prix{
+	height: 270px;
+	width: 400px;}
